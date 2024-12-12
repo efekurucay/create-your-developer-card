@@ -1,5 +1,6 @@
 # create-your-developer-card
- create-your-developer-card
+
+![ create-your-developer-card]([chatgpt.com](https://chatgpt.com/))
 ![image](https://github.com/user-attachments/assets/a308e96a-d45b-4038-9f88-c77b818f91bd)
 
 ## Hangi Yazılımcısın? Quiz
